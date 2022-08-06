@@ -7,5 +7,5 @@ DHCP/DNS-额外的HOSTS文件
 
 订阅链接：
 ```
-https://raw.githubusercontent.com/CodeFishK/Emby_Host/main/Remote_Submit.host
+https://raw.githubusercontent.com/CodeFishK/emby-jellyfin-hosts/main/remote-submit.host
 ```
