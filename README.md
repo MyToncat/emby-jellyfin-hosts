@@ -1,4 +1,4 @@
-# Emby_Host
+## emby-jellyfin-hosts
 适用于emby/jellyfin刮削hosts专用的远程订阅
 
 在OpenWR如下位置添加订阅链接即可：
