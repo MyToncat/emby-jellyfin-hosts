@@ -1,11 +1,8 @@
 #emby/jellyfin--------开始
 #更新时间：2022年8月6日 17:30
-65.9.86.21 api.themoviedb.org
 65.9.86.99 api.themoviedb.org
+65.9.86.21 api.themoviedb.org
 65.9.86.30 api.themoviedb.org
 65.9.86.120 api.themoviedb.org
-65.9.86.82 image.tmdb.org
-65.9.86.79 image.tmdb.org
-65.9.86.35 image.tmdb.org
-65.9.86.15 image.tmdb.org
+84.17.46.54 image.tmdb.org
 #emby/jellyfin--------结束
