@@ -1,5 +1,5 @@
 ## emby-jellyfin-hosts
->适用于emby/jellyfin刮削hosts专用的远程订阅
+>适用于emby/jellyfin刮削的专用hosts
 
 1.在`/etc/`目录下新建`myhosts`文件，粘贴[最新](https://raw.githubusercontent.com/CodeFishK/emby-jellyfin-hosts/main/remote-submit.host)的规则并保存；  
 
